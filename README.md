@@ -6,4 +6,5 @@ This is the first step towards building a full web application: the AirBnB clone
 # This file lists all contributors to the repository.
 
 Judith Uchechukwu Ezenwosu
+
 Ezeibekwe Chioma Maryjane <genevieveezeh786@gmail.com>
